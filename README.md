@@ -1,4 +1,4 @@
-# UMBC DATA 601 HW2: Spotify Web API!!
+# UMBC DATA 601 HW2: Spotify Web API
 
 This project is an explotation of the [Spotify Web API](https://developer.spotify.com/documentation/web-api/). I pull a dataset of Spotify tracks, clean and process that data, and create various visualiztions of both continious and catigorical data.  
 
