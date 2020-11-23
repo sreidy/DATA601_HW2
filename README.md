@@ -10,7 +10,7 @@ In this project, we take a look at [Spotify Track Feature Data](https://develope
 
 Scenario: As we will try to predict a counties median house price, we suppose we are working for CA housing department. As a result of this project we will give them suggested median housing prices based on a counties demographic information.
 
-Task Example: What type of music is the most dancable, or the most lyrically dense? How could this data be used to build a genre classifier for futrue projects.
+Task Example: What type of music is the most dancable, or the most lyrically dense? How could this data be used to build a genre classifier for a future  projects.
 
 # Goals
 
