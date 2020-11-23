@@ -35,8 +35,8 @@ Similar projects and tutorials references on the Spotify Web API and python data
 	+ spotify_df.pkl : a python pickle saved spotify dataframe element 
 	+ spotify_dict.pkl : a pickel of the  dictionary of playlists
 - Notebooks
-	+ getSpotifyData.ipynb : Quering, cleaning, and saving the data from the Spotify Web API 
-	+ spotifyTechnicalNotebook.ipynb : A high level overview and EDA of the dataset 
+	+ [getSpotifyData.ipynb](https://github.com/sreidy/DATA601_HW2/blob/main/getSpotifyData.ipynb) : Quering, cleaning, and saving the data from the Spotify Web API 
+	+ [spotifyTechnicalNotebook.ipynb](https://github.com/sreidy/DATA601_HW2/blob/main/spotifyTechnicalNotebook.ipynb) : A high level overview and EDA of the dataset 
 	
 # Software Requirements & Usage
 
